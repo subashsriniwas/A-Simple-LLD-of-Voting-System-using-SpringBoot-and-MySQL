@@ -1,3 +1,6 @@
+Certainly! Here's a sample README file for your Simple LLD Voting System project using Spring Boot:
+
+```markdown
 # Simple LLD Voting System
 
 This project is a simple Voting System implemented using Spring Boot. The application allows users to save persons, check their voting eligibility, display all persons, vote, delete persons, and exit the system.
@@ -61,3 +64,88 @@ Once the application is running, you can interact with it using the console. The
 [4] for Voting
 [5] to delete
 [6] for exit
+```
+
+### Save Person
+
+Save a new person to the system.
+
+### Check Voting Eligibility
+
+Check if a person is eligible to vote.
+
+### Display All Persons
+
+Display all persons in the system.
+
+### Vote
+
+Vote for a party.
+
+### Delete Person
+
+Delete a person from the system.
+
+### Exit
+
+Exit the application.
+
+## Example
+
+Here's an example interaction with the system:
+
+```text
+[1] for save person 
+[2] for checking eligibility 
+[3] for display 
+[4] for Voting 
+[5] to delete 
+[6] for exit
+```
+
+Choose an option: `1`
+- Enter person details: `Name: John Doe, Age: 25, Voting Eligible: true`
+
+Choose an option: `2`
+- Enter person ID to check eligibility: `1`
+- Output: `Person is eligible to vote.`
+
+Choose an option: `3`
+- Output: `Displaying all persons...`
+
+Choose an option: `4`
+- Enter person ID and party to vote: `1, Party: A`
+- Output: `Vote recorded successfully.`
+
+Choose an option: `5`
+- Enter person ID to delete: `1`
+- Output: `Person deleted successfully.`
+
+Choose an option: `6`
+- Output: `Exiting...`
+
+## Built With
+
+- [Spring Boot](https://spring.io/projects/spring-boot) - Framework for building Java applications
+- [Maven](https://maven.apache.org/) - Dependency Management
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
+
+## Authors
+
+- **Your Name** - *Initial work* - [yourusername](https://github.com/yourusername)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+```
+
+This README provides an overview of the project, how to get started, usage instructions, and other relevant information. Make sure to update the repository URL, author details, and any other specifics as necessary.
