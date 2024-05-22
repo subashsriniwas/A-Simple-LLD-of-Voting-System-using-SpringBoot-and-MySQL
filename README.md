@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for your Simple LLD Voting System project using Spring Boot:
-
-```markdown
 # Simple LLD Voting System
 
 This project is a simple Voting System implemented using Spring Boot. The application allows users to save persons, check their voting eligibility, display all persons, vote, delete persons, and exit the system.
@@ -129,17 +126,11 @@ Choose an option: `6`
 - [Spring Boot](https://spring.io/projects/spring-boot) - Framework for building Java applications
 - [Maven](https://maven.apache.org/) - Dependency Management
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
 
 ## Authors
 
-- **Your Name** - *Initial work* - [yourusername](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [Subash Sriniwas M](https://github.com/subashsriniwas)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -147,5 +138,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspiration
 - etc
 ```
-
-This README provides an overview of the project, how to get started, usage instructions, and other relevant information. Make sure to update the repository URL, author details, and any other specifics as necessary.
